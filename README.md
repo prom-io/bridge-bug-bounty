@@ -8,6 +8,7 @@ This bug bounty program is focused on Prom Bridge smart contracts and is focused
 - Any Access Control's malicious manipulations
 
 Bugs on Smart Contract level or Backend level are considered valid. Bugs on frontend side are not part of the scope.
+
 At the current version gas price fee is static, which might lead to project receiving less funds during gas spikes. The bug is known and therefore not subject to reward.
 
 ## Reward system
